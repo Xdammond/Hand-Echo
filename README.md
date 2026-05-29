@@ -28,3 +28,6 @@ hardware/      Schematics, wiring diagrams, and BOMs
 firmware/      Microcontroller code
 media/         Images, videos, and diagrams
 test_data/     Test results and measurements
+
+## Status
+Completed
